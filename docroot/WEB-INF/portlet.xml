@@ -22,6 +22,7 @@
 		<supports>
 			<mime-type>text/html</mime-type>
 		</supports>
+		<resource-bundle>eu.gloria.website.liferay.experiments.online.portlets.cameras.content.Language-Cameras</resource-bundle>
 		<portlet-info>
 			<title>GLORIA CamerasThumbnail</title>
 			<short-title>GLORIA CamerasThumbnail</short-title>
